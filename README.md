@@ -8,7 +8,7 @@ I love code!
 
 * 🌍  Moro em Belo Horizonte
 * 🖥️  Veja meu portfólio em (Desenvolvimento)
-* 🧠  I'm learning Node.js and some libraries and frameworks him
+* 🧠  Estou aprendendo Node.js e algumas bibliotecas e frameworks dele
 * 🤝  Estou aberto a colaborar em projetos que possam me ajudar a adquirir conhecimento
 * ⚡  Apaixonado por natureza, jogos, esportres e arte
 
