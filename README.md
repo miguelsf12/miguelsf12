@@ -6,11 +6,12 @@ Development Student
 
 I love code!
 
-* 🌍  Moro em Belo Horizonte
+* 🌍  Moro em Esmeraldas, MG
 * 🖥️  Veja meu portfólio em (Desenvolvimento)
 * 🧠  Estou aprendendo Node.js e algumas bibliotecas e frameworks dele
 * 🤝  Estou aberto a colaborar em projetos que possam me ajudar a adquirir conhecimento
 * ⚡  Apaixonado por natureza, jogos, esportres e arte
+* 💼 www.linkedin.com/in/miguel-santos-40aa6b28b
 
 ### Skills
 
