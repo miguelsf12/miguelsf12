@@ -6,7 +6,7 @@ Development Student
 
 I love code!
 
-* 🌍  Moro em Esmeraldas, MG
+* 🌍  Contagem, MG
 * 🖥️  Veja meu portfólio em (Desenvolvimento)
 * 🧠  Estou aprendendo Node.js e algumas bibliotecas e frameworks dele
 * 🤝  Estou aberto a colaborar em projetos que possam me ajudar a adquirir conhecimento
