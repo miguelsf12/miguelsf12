@@ -7,7 +7,7 @@ Development Student
 I love code!
 
 * 🌍  Contagem, MG
-* 🖥️  Veja meu portfólio em (Desenvolvimento)
+* 🖥️  Veja meu portfólio: https://portifolio-six-smoky-54.vercel.app/
 * 🧠  Estou aprendendo Node.js e algumas bibliotecas e frameworks dele
 * 🤝  Estou aberto a colaborar em projetos que possam me ajudar a adquirir conhecimento
 * ⚡  Apaixonado por natureza, jogos, esportres e arte
