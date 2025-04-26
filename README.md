@@ -8,9 +8,8 @@ I love code!
 
 * 🌍  Contagem, MG
 * 🖥️  Veja meu portfólio: https://portifolio-six-smoky-54.vercel.app/
-* 🧠  Estou aprendendo Node.js e algumas bibliotecas e frameworks dele
+* 🧠  Atualmente, estou aprofundando meus conhecimentos em Node.js, explorando suas bibliotecas e frameworks.
 * 🤝  Estou aberto a colaborar em projetos que possam me ajudar a adquirir conhecimento
-* ⚡  Apaixonado por natureza, jogos, esportres e arte
 * 💼 www.linkedin.com/in/miguel-santos-40aa6b28b
 
 ### Skills
