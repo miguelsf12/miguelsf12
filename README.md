@@ -7,7 +7,7 @@ Development Student
 I love code!
 
 * 🌍  Contagem, MG
-* 🖥️  Veja meu portfólio: miguelsfdev.com.br
+* 🖥️  Veja meu portfólio: www.miguelsfdev.com.br
 * 🧠  Atualmente, estou aprofundando meus conhecimentos em Node.js, explorando suas bibliotecas e frameworks.
 * 🤝  Estou aberto a colaborar em projetos que possam me ajudar a adquirir conhecimento
 * 💼 www.linkedin.com/in/miguel-santos-40aa6b28b
