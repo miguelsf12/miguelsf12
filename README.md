@@ -9,13 +9,9 @@ I love code!
 * 🌍  Contagem, MG
 * 🖥️  Veja meu portfólio: www.miguelsfdev.com.br
 * 🧠  Sou estudante de Análise e Desenvolvimento de Sistemas na UNA e estou em formação na área de desenvolvimento de software, com foco em Java.
-
       Estou sempre buscando evoluir na prática, estudando programação, lógica e dados, e aplicando isso em projetos pessoais e acadêmicos. Tenho interesse em desenvolvimento backend e em construir soluções que realmente funcionem no dia a dia.
-
       Sou uma pessoa proativa, com facilidade de comunicação e trabalho em equipe. Gosto de entender o problema antes de sair codando, e tenho disciplina para aprender rápido e me adaptar.
-
       Como desenvolvedor júnior, trago muita vontade de aprender, responsabilidade e dedicação. Tenho facilidade em absorver feedback, evoluir rápido e contribuir com o time desde o início, seja ajudando na organização, resolução de problemas ou desenvolvimento.
-
       Busco uma oportunidade para crescer na área, ganhar experiência prática e agregar valor com consistência.
 * 💼 www.linkedin.com/in/miguel-santos-40aa6b28b
 
