@@ -7,7 +7,7 @@ Development Student
 I love code!
 
 * 🌍  Contagem, MG
-* 🖥️  Veja meu portfólio: www.miguelsfdev.com.br
+* 🖥️  Veja meu portfólio: https://portifolio-six-smoky-54.vercel.app/
 * 🧠  Sou estudante de Análise e Desenvolvimento de Sistemas na UNA e estou em formação na área de desenvolvimento de software, com foco em Java.
       Estou sempre buscando evoluir na prática, estudando programação, lógica e dados, e aplicando isso em projetos pessoais e acadêmicos. Tenho interesse em desenvolvimento backend e em construir soluções que realmente funcionem no dia a dia.
       Sou uma pessoa proativa, com facilidade de comunicação e trabalho em equipe. Gosto de entender o problema antes de sair codando, e tenho disciplina para aprender rápido e me adaptar.
